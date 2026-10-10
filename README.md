@@ -44,22 +44,8 @@ Make sure Python 3 is installed on your computer.
 ### Installation & Execution
 
 1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/Tazbin-Hossen/Number-Guessing-Game.git
-   ```
-
 2. Navigate to the project directory:
-
-   ```bash
-   cd Number-Guessing-Game
-   ```
-
-3. Run the game:
-
-   ```bash
-   python main.py
-   ```
+3. Run the game
 
 ## What I Learned
 
@@ -71,6 +57,10 @@ Through this project, I practiced:
 - Managing limited attempts using loops
 - Implementing difficulty levels and basic game logic
 
-## Project Repository
+## Project URL
 
-[Number Guessing Game — GitHub](https://github.com/Tazbin-Hossen/Number-Guessing-Game)
+[Project Page URL](PASTE_YOUR_PROJECT_PAGE_URL_HERE)
+
+## GitHub Repository
+
+[Number Guessing Game](https://github.com/Tazbin-Hossen/Number-Guessing-Game)
