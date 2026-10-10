@@ -59,7 +59,7 @@ Through this project, I practiced:
 
 ## Project URL
 
-[Project Page URL](https://github.com/Tazbin-Hossen/Number-Guessing-Game)
+[Project Page URL](https://roadmap.sh/projects/number-guessing-game)
 
 ## GitHub Repository
 
