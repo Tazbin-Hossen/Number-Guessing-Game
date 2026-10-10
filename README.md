@@ -4,7 +4,7 @@ A simple command-line Number Guessing Game built with Python. The computer rando
 
 ## How to Play
 
-1. Run the program. 
+1. Run the program.
 2. Choose a difficulty level.
 3. The computer randomly selects a number.
 4. Enter your guess.
@@ -33,7 +33,7 @@ The higher the difficulty, the fewer attempts you get!
 ## Technologies Used
 
 - **Language:** Python
-- **Modules:** `random , time`
+- **Modules:** `random`, `time`
 
 ## Getting Started
 
@@ -44,17 +44,33 @@ Make sure Python 3 is installed on your computer.
 ### Installation & Execution
 
 1. Clone the repository:
-2. Navigate to the project directory:
-3. Run the game
 
-##  What I Learned
+   ```bash
+   git clone https://github.com/Tazbin-Hossen/Number-Guessing-Game.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd Number-Guessing-Game
+   ```
+
+3. Run the game:
+
+   ```bash
+   python main.py
+   ```
+
+## What I Learned
 
 Through this project, I practiced:
+
 - Taking user input through the command line
-- Using Python's `random , time` module
+- Using Python's `random` and `time` modules
 - Working with conditional statements
 - Managing limited attempts using loops
 - Implementing difficulty levels and basic game logic
 
-## Project URL: https://github.com/Tazbin-Hossen/Number-Guessing-Game
+## Project Repository
 
+[Number Guessing Game — GitHub](https://github.com/Tazbin-Hossen/Number-Guessing-Game)
