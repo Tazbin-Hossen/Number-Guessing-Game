@@ -56,3 +56,5 @@ Through this project, I practiced:
 - Managing limited attempts using loops
 - Implementing difficulty levels and basic game logic
 
+## Project URL: https://github.com/Tazbin-Hossen/Number-Guessing-Game
+
